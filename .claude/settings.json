@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "garden-skills": {
+      "source": { "source": "github", "repo": "ConardLi/garden-skills" }
+    }
+  },
+  "enabledPlugins": {
+    "presentation-skills@garden-skills": true,
+    "web-design-skills@garden-skills": true,
+    "knowledge-base-skills@garden-skills": true,
+    "image-generation-skills@garden-skills": true,
+    "motion-showreel-skills@garden-skills": true,
+    "beautiful-article-skills@garden-skills": true
+  }
+}
